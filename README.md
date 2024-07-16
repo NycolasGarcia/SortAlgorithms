@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sorting and Evaluation of Game Data <img width="25px" src="https://raw.githubusercontent.com/eoLucasS/portfolio/main/assets/img/icon.svg"/>
+  Aplicação de Algoritmos de Ordenação <img width="25px" src="https://raw.githubusercontent.com/eoLucasS/portfolio/main/assets/img/icon.svg"/>
 </h1>
 
 <p align="center">
@@ -53,16 +53,12 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <p align="left">
 
- <a href="https://www.linkedin.com/in/lucaslopesdasilva/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/lucaslopesdasilva/"/> 
- </a>
-  
- <a href="https://twitter.com/eoLucasS114" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/eoLucasS114"/> 
+ <a href="https://www.linkedin.com/in/NycolasAGRGarcia/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
- <a href="https://portfolio-lucaslopes.vercel.app/" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://portfolio-lucaslopes.vercel.app/"/>
+ <a href="https://github.com/NycolasGarcia" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://i.pinimg.com/originals/c3/a2/5d/c3a25dd8c9c80a6b0373bd56b1c77f6a.jpg"/>
  </a>
 
  </p>
@@ -71,6 +67,13 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.linkedin.com/in/nycolasagrgarcia/">
+        <img src="https://media.licdn.com/dms/image/C4E03AQHp2s4N73dbEA/profile-displayphoto-shrink_800_800/0/1658261108787?e=1725494400&v=beta&t=bY2v_s927nkomKEakSU8sGp6wDB0Wq94gBu9eHG-7Vw" width="100px;" /><br>
+        <sub>
+          <b>Nycolas Garcia</b>
+        </sub>
+      </a>
+      <td align="center">
       <a href="https://www.linkedin.com/in/lucaslopesdasilva/">
         <img src="https://avatars.githubusercontent.com/u/119815116?v=4" width="100px;" /><br>
         <sub>
@@ -83,4 +86,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 -----
 
-<h3 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/lucaslopesdasilva/">Lucas Lopes da Silva</a> ☕</h3>
+<h3 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/NycolasAGRGarcia/">Nycolas Garcia</a> ☕</h3>
